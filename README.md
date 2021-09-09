@@ -1,0 +1,5 @@
+- # Hi, I'm Lucas.
+- ### I have absolutely 0 coding experience
+- ### I took this class mainly to fill out my schedule
+- ### I really love music and art
+- ### I would like to be able to better troubleshoot issues I have with my computer
